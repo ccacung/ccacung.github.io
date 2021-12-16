@@ -288,3 +288,9 @@ defaults:
       comments: # true
       share: true
       related: true
+      ---
+layout: post
+title: "Alexnet에 대해"
+---
+# AI+X: Deep learning final
+
